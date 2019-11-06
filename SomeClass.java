@@ -7,5 +7,5 @@ public class SomeClass {
   public void FuncInNewBranch(){
     System.out.println("This function which was addedin new branch");
   }
-  
+  // some useless comment added
 }
